@@ -11,7 +11,7 @@
 </div>
 
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: [Email](mailto:ilya.tsikhanionak@gmail.com), [LinkedIn](https://linkedin.com/in/nrglook/), [Instagram](https://instagram.com/tikhanionok)
+- 📫 How to reach me: [Email](mailto:ilya.tsikhanionak@gmail.com), [LinkedIn](https://linkedin.com/in/nrglook/), [Instagram](https://instagram.com/tikhanionok), [Telegram](https://t.me/nrglook)
 
 <h3 align="left">Languages and Tools:</h3>
 <p> 
