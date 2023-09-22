@@ -1,10 +1,4 @@
-### Hi there 👋
-
 >  Where we are NOW is the result of our daily elections of TODAY.
-
->  Life begins where the comfort zone ends.
-
-> "Discover an array of fascinating projects and contributions, showcasing my journey as a highly curious and versatile individual, constantly expanding my knowledge."
 
 <h1 align="center">Hi 👋, I'm Ilya</h1>
 
