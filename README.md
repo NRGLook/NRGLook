@@ -1,12 +1,19 @@
 >  Where we are NOW is the result of our daily elections of TODAY.
 
 <h1 align="center">Hi 👋, I'm Ilya</h1>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NRGLook&label=Profile%20views&color=b40e0e&style=flat" alt="kolyaklimk" /></p>
+<img src=https://readme-typing-svg.herokuapp.com?color=%23000000&lines=Programming+Aficionado>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NRGLook&label=Profile%20views&color=b40e0e&style=flat" alt="nrglook" /></p>
 
 ## ⚡ Github Stats
 <div>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NRGLook&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NRGLook&theme=dark" alt="GitHub Profile Summary">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NRGLook&theme=dark" alt="Most Committed Languages">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NRGLook&theme=dark" alt="Repositories per Language">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NRGLook&theme=dark" alt="Profile Stats">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NRGLook&theme=dark" alt="Productive Time">
+</div>
+<div>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NRGLook&show_icons=true&hide_border=true&&include_all_commits=true&theme=dark" />
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NRGLook&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
