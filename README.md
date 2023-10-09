@@ -17,6 +17,10 @@
 
 ## <h3 align="left">Languages and Tools:</h3>
 <p> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a> 
@@ -24,10 +28,6 @@
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
   </a>
-  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
   
   <a href="https://ru.wikipedia.org/wiki/%D0%90%D1%81%D1%81%D0%B5%D0%BC%D0%B1%D0%BB%D0%B5%D1%80" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.hackr.io/uploads/topics_svg/1515163329FBBk5SGRAt.svg" alt="assembler" width="40" height="40"/> 
@@ -42,7 +42,11 @@
   </a>  
 </p>
 
-<p>     
+<p>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
+  </a> 
+  
   <a href="https://learn.microsoft.com/en-us/dotnet/maui/" target="_blank" rel="noreferrer">
     <img src="https://f4n3x6c5.stackpathcdn.com/UploadFile/MinorCatImages/dotnet-maui_052650088.png" alt="maui" width="40" height="40"/> 
   </a> 
@@ -59,9 +63,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
   </a>     
   
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-  </a> 
 </p>
 
 <p>   
