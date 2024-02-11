@@ -8,10 +8,6 @@
 
 ## ⚡ Github Stats
 
-| ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NRGLook&theme=dark) | ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NRGLook&theme=dark) |
-| --- | --- |
-| ![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=NRGLook&show_icons=true&hide_border=true&&include_all_commits=true&theme=dark&height=180) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NRGLook&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark) |
-
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: [Email](mailto:ilya.tsikhanionak@gmail.com), [LinkedIn](https://www.linkedin.com/in/ilya-tsikhanionak-bb1318252/), [Instagram](https://instagram.com/tikhanionok), [Telegram](https://t.me/nrglook)
 
